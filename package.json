@@ -1,0 +1,22 @@
+{
+    "name": "Carpe",
+    "displayName": "CarpeDiem",
+    "description": "Color Theme",
+    "version": "1.0.0",
+    "publisher": "elan-fraiman",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "CarpeDiem",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CarpeDiem-color-theme.json"
+            }
+        ]
+    }
+}
