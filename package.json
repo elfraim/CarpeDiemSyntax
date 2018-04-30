@@ -1,11 +1,16 @@
 {
     "name": "Carpe",
-    "displayName": "CarpeDiem",
-    "description": "Color Theme",
-    "version": "1.0.0",
+    "displayName": "CarpeDiem Syntax",
+    "description": "A Dark/Pastel colored theme, easy on the eyes pleasing for the brain",
+    "version": "1.0.4",
     "publisher": "elan-fraiman",
+    "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.22.0"
+    },
+    "galleryBanner": {
+        "color": "#C80000",
+        "theme": "dark"
     },
     "categories": [
         "Themes"
