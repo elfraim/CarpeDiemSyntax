@@ -2,7 +2,7 @@
 	"name": "CarpeDiem",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#251b20",
+		"editor.background": "#272727",
 		"editor.foreground": "#FCFCFC",
 		"activityBarBadge.background": "#ff6868",
 		"sideBarTitle.foreground": "#bbbbbb"
